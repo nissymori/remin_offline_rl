@@ -1,0 +1,13 @@
+_pycache_/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+
+exp
+exp_compare
